@@ -1,3 +1,7 @@
+# Create a class called Grocery_Item
+# Define parameters in the class with the following: self, name, price, and discount 
+# Define display_info to show information about grocery items in the class 
+
 class Grocery_Item:
   def __init__(self, name, price, discount):
     self.name = name
